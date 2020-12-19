@@ -14,7 +14,7 @@ However more advanced codes will be added to make this project more advanced and
 Fairly simple instructions, to access the secondary pages (portfolio and contact) the user simply has to use the navbar at the top of the page to cycle through the pages with a click on the self titled pages. 
 
 ## Mentions
-Help along the way came from the teacher, TA, tutor and outside website resources. 
+Help along the way came from the teacher, TA, tutor from bootcampspot and outside website resources. 
 
 ## Contact
-josephjlyons9@gmail.com for any questions in regards to this project/webpage. 
+josephjlyons90@gmail.com for any questions in regards to this project/webpage. 
